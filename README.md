@@ -1,5 +1,7 @@
 # QuickFlightCache
 
+![logo](image/README/logo.png)
+
 QuickFlightCache is a Python package designed for quick and efficient flight search using the RapidAPI platform, with added functionality to cache responses to minimize API calls and reduce response times for repeated requests. It simplifies retrieving flights, filtering results, and displaying flight details.
 
 ## Features
